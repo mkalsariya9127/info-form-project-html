@@ -35,4 +35,4 @@ Open `index.html` in your browser.
 ---
 
 ## 👤 Author
-- **Milan Klasariya** - [GitHub Profile](https://github.com/mkalsariya9127)
+- **Milan Kalsariya** - [GitHub Profile](https://github.com/mkalsariya9127)
