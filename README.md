@@ -4,6 +4,11 @@ A multi-page responsive web portal featuring user registration, service overview
 
 ---
 
+## 🚀 Live Demo & Preview
+👉 **[View Live Portal on GitHub Pages](https://mkalsariya9127.github.io/info-form-project-html/)**
+
+---
+
 ## 🌐 Included Pages
 - **Home (`index.html`):** Overview of the portal, key features, and call-to-actions.
 - **Services (`service.html`):** Detailed breakdown of available offerings and services.
